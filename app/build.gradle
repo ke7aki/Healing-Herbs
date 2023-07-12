@@ -6,7 +6,7 @@ android {
     useLibrary 'org.apache.http.legacy'
     defaultConfig {
         applicationId "com.applicationslab.ayurvedictreatment"
-        minSdkVersion 33
+        minSdkVersion 26
         //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 33
         versionCode 1
