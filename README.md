@@ -1,4 +1,4 @@
-# Healing Herbs 
+# Healing Herbs 🌿
 
 ### Overview :
 Healing Herbs is an Android app that offers effective natural remedies for diverse ailments, including symptom-based disease diagnosis. It also provides BMI calculations and offers tailored dietary advice based on the user's BMI. Additionally, the app showcases the uses of herbal plants.
